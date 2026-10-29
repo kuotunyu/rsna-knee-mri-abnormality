@@ -1,4 +1,4 @@
-# Kaggle RSNA Knee Abnormality Detection — 478th / 6,299（銅牌）
+# RSNA Knee MRI Abnormality Detection
 
 截止時有 1,638 隊的公開分數顯示 0.958；本專案提交的變體都顯示 0.957，其中幾個在 58 筆完整標註的訓練資料上分數比較高，所以本專案改用這 58 筆、把整條推論流程重跑一遍來挑版本；最後的 Private 分數比原樣複製版高 0.001，在 6,299 隊中排第 478 名，拿到銅牌。
 
