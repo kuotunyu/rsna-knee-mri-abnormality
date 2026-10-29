@@ -1,0 +1,19 @@
+Private leaderboard, re-ranked, read 2026-10-27 from Kaggle's own leaderboard API response
+(competitions.LeaderboardService/GetLeaderboard, competitionId 154281, logged in as yukuo14), all 6,300 private rows,
+ranks monotone in displayed score. Kaggle's page banner at the time: "The private leaderboard is preliminary and will be
+finalized after the results are verified."
+
+yu_kuo14: rank 478, displayed private 0.943, submission 57396162, medal BRONZE.
+Medals: GOLD 22, SILVER 293 (ranks to 315), BRONZE 315 (ranks to 630), none 5,670.
+
+displayed private score:first rank-last rank(teams)
+0.960:1-2(2) 0.959:3-3(1) 0.958:4-6(3) 0.957:7-10(4) 0.956:11-15(5) 0.955:16-21(6) 0.954:22-25(4) 0.953:26-30(5)
+0.952:31-40(10) 0.951:41-48(8) 0.950:49-58(10) 0.949:59-73(15) 0.948:74-98(25) 0.947:99-123(25) 0.946:124-160(37)
+0.945:161-203(43) 0.944:204-296(93) 0.943:297-583(287) 0.942:584-1880(1297) 0.941:1881-2098(218) 0.940:2099-2205(107)
+0.939:2206-2234(29) 0.938:2235-2291(57) 0.937:2292-2361(70) 0.936:2362-2372(11)
+
+Compared with 10/23 (private_lb_score_blocks_20261023.txt, 6,425 teams, we were 507th, 0.942 block ranks 616-1937 = 1,322
+teams), 125 teams are gone and the 0.942 block is now ranks 584-1880 (1,297 teams).
+
+FINAL 2026-10-29: leaderboard banner "This competition has completed. This leaderboard reflects the final standings."
+API read: 6,299 private rows; yu_kuo14 rank 478, 0.943, BRONZE; 0.942 block still ranks 584-1880 (1,297 teams); last bronze rank 629.

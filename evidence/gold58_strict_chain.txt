@@ -1,0 +1,9 @@
+control 57366656 (expect 0.938369)             gold 0.938369 | vs control +0.0000 P 0.00 [0.0000,0.0000] | vs OA3R -0.0031 P 0.06
+OA3R 57293533 (expect 0.941400)                gold 0.941400 | vs control +0.0031 P 0.94 [-0.0008,0.0077] | vs OA3R +0.0000 P 0.00
+S2 57368146 (expect 0.939678)                  gold 0.939678 | vs control +0.0013 P 0.98 [0.0000,0.0034] | vs OA3R -0.0017 P 0.16
+OA3-only 57346960                              gold 0.941259 | vs control +0.0029 P 0.94 [-0.0008,0.0073] | vs OA3R -0.0001 P 0.43
+CLEAN (Lat .2, Bak .35 restored) + reader .1   gold 0.941873 | vs control +0.0035 P 0.98 [0.0000,0.0077] | vs OA3R +0.0005 P 0.65
+CLEAN no reader                                gold 0.941571 | vs control +0.0032 P 0.97 [-0.0000,0.0070] | vs OA3R +0.0002 P 0.56
+OA3R direct (no extra ranks)                   gold 0.941976 | vs control +0.0036 P 0.95 [-0.0006,0.0082] | vs OA3R +0.0006 P 0.63
+CLEAN + reader .1 direct                       gold 0.942610 | vs control +0.0043 P 0.98 [0.0005,0.0087] | vs OA3R +0.0012 P 0.81
+S2 + Synovitis .5                              gold 0.941271 | vs control +0.0029 P 0.98 [0.0001,0.0063] | vs OA3R -0.0001 P 0.46

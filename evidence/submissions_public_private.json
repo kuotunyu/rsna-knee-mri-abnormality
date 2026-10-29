@@ -1,0 +1,162 @@
+[
+ {
+  "ref": "57396186",
+  "date": "2026-10-19 12:27:29.383000",
+  "description": "G958-CLEAN-RD: as CLEAN-R but reader/public-reader mixed into base scores without intermediate re-ranks (strict gold 0.942610).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.943"
+ },
+ {
+  "ref": "57396162",
+  "date": "2026-10-19 12:26:26.470000",
+  "description": "G958-CLEAN-R: 0.958 base, Raptor wt Med OA .3 / Lat OA .2 / PF OA .3 / Synovitis .5 / Baker .35 + own8 reader .1 (strict gold 0.941873).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.943"
+ },
+ {
+  "ref": "57368146",
+  "date": "2026-10-18 20:31:12.237000",
+  "description": "G958-S2: goodpjw 0.958 with small OA move Medial .4, PF .45 (gold +0.0008); own reader weight 0.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57366656",
+  "date": "2026-10-18 19:32:43.360000",
+  "description": "G958 control: goodpjw 0.958 unchanged through our fork pipeline, own reader weight 0 (reproducibility control).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.958",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57363355",
+  "date": "2026-10-18 17:32:25.307000",
+  "description": "G958-S1: goodpjw 0.958 with small per-finding move Synovitis .65, PF OA .45 (gold +0.0013); own reader weight 0.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57348314",
+  "date": "2026-10-18 09:17:33.500000",
+  "description": "G958R05: goodpjw 0.958 unchanged + our 8-fold reader w0.05 (decomposition test).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57346960",
+  "date": "2026-10-18 08:38:28.593000",
+  "description": "G958-OA3 only: goodpjw 0.958 base, OA Raptor 0.3 (no Synovitis/Baker override), own reader weight 0 (decomposition test).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57293533",
+  "date": "2026-10-17 03:31:42.527000",
+  "description": "G958-OA3R: goodpjw 0.958 base with OA Raptor 0.3 (no Synovitis/Baker override) + our 8-fold reader w0.1 (gold58 0.9419).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.943"
+ },
+ {
+  "ref": "57292711",
+  "date": "2026-10-17 03:01:45.613000",
+  "description": "G958R: goodpjw 0.958 (Raptor 384+224 mirror, R6 flip TTA, heliosli per-finding weights, goodpjw reader) + our 8-fold reader w0.1.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57292443",
+  "date": "2026-10-17 02:51:34.370000",
+  "description": "HPF+R: heliosli per-finding 0.9576 variant + our 8-fold reader w0.1.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.957",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57183782",
+  "date": "2026-10-14 13:29:15.393000",
+  "description": "R7c-OA03-FX07: OA Raptor 0.3, Fracture Raptor 0.7 (gold58 0.9396).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.956",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57173046",
+  "date": "2026-10-14 07:39:16.953000",
+  "description": "R7c-OA03: R7c with OA findings Raptor 0.3 / R7 0.7 (gold58 0.9363->0.9389).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.956",
+  "private_score": "0.942"
+ },
+ {
+  "ref": "57164726",
+  "date": "2026-10-14 02:59:22.903000",
+  "description": "N12: no-OAI hedge (compact S6 .5 + goodpjw .25 + our 12-checkpoint reader .25).",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.950",
+  "private_score": "0.938"
+ },
+ {
+  "ref": "57164326",
+  "date": "2026-10-14 02:42:03.223000",
+  "description": "R7c12: R7c (R7 + Raptor/c224) + our 12-checkpoint reader (ConvNeXt 2 seeds + EffV2) w0.1.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.956",
+  "private_score": "0.941"
+ },
+ {
+  "ref": "57138542",
+  "date": "2026-10-13 09:39:47.620000",
+  "description": "R7c: public R7 + Raptor with nartaa c08_r224 (0.35 of Raptor slot) + our 8-fold reader w0.1.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.956",
+  "private_score": "0.941"
+ },
+ {
+  "ref": "57131440",
+  "date": "2026-10-13 05:11:41.183000",
+  "description": "R7r w0.1: R7 fork (Raptor 0.5 + R7 0.5) + our competition-only reader (2 seeds x 4 folds) rank w0.1; base kept on failure.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.956",
+  "private_score": "0.941"
+ },
+ {
+  "ref": "57131439",
+  "date": "2026-10-13 05:11:37.547000",
+  "description": "R7r w0.2: R7 fork (Raptor 0.5 + R7 0.5) + our competition-only reader (2 seeds x 4 folds) rank w0.2; base kept on failure.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.956",
+  "private_score": "0.941"
+ },
+ {
+  "ref": "57123830",
+  "date": "2026-10-13 00:12:53.703000",
+  "description": "R7 fork: heliosli public R7 (fastMRI-aux compact) + Raptor 0.5/0.5, unchanged.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.956",
+  "private_score": "0.940"
+ },
+ {
+  "ref": "57123344",
+  "date": "2026-10-13 00:05:11.977000",
+  "description": "N8 no-OAI hedge: compact 0.5 + goodpjw reader 0.25 + our reader (2 seeds x 4 folds) 0.25.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.950",
+  "private_score": "0.937"
+ },
+ {
+  "ref": "57100184",
+  "date": "2026-10-12 07:46:31.243000",
+  "description": "H5r: H5 (Raptor 0.5 + compact 0.5) + our competition-only 4-fold reader rank w0.2; base kept on failure.",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": "0.954",
+  "private_score": "0.939"
+ }
+]
